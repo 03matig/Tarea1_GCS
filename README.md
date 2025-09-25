@@ -40,9 +40,9 @@ pip install -r requirements.txt
 ## Estructura del proyecto
 ```
 📁 Tarea1_GCS/
-├── Tarea1_Problema1.ipynb  ← Notebook principal con todo el código y visualizaciones
+├── Tarea1_Problema1.ipynb  ← Notebook principal con todo el código y visualizaciones para el problema 1
+├── Tarea1_Problema2.ipynb ← Notebook principal con todo el código y visualizaciones para el problema 2
 ├── data/
 │   ├── generador_instancias.py  ← Script que genera coordenadas y parámetros con seed reproducible
 │   └── instancias/              ← Carpeta para guardar instancias generadas (.csv o .npy)
-└── requirements.txt            ← Lista de paquetes a instalar (opcional)
-```
+└── requirements.txt            ← Lista de paquetes a instalar
